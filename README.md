@@ -2,4 +2,4 @@
 
 ## PyPI
 
-<https://pypi.org/project/algolab/0.0.1/>
+<https://pypi.org/project/algolab/>
